@@ -24,3 +24,5 @@ Jupyter Notebook
 Scikit-learn
 
 Pandas, NumPy, Matplotlib, Seaborn
+
+Author-Anish Kumar Barik
